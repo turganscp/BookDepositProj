@@ -12,7 +12,7 @@ namespace BookDeposit2
     {
         private string GetConnectionString()
         {
-            return "Data Source=den1.mssql8.gear.host; Initial Catalog=hvidvarer22; User Id=hvidvarer22; Password=Lb8qw~vq~B0X";
+            return "Data Source=.host; Initial Catalog=; User Id=; Password=";
         }
 
         public void InsertRPGBOOK(RPGBook r)
