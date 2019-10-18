@@ -1,0 +1,13 @@
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\bin\Debug\BookDeposit2.exe.config
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\bin\Debug\BookDeposit2.exe
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\bin\Debug\BookDeposit2.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\obj\Debug\BookDeposit2.csprojAssemblyReference.cache
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\obj\Debug\BookDeposit2.csproj.CoreCompileInputs.cache
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\obj\Debug\BookDeposit2.exe
+C:\Users\Wyrdling\source\repos\BookDeposit2\BookDeposit2\obj\Debug\BookDeposit2.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\obj\Debug\BookDeposit2.csprojAssemblyReference.cache
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\obj\Debug\BookDeposit2.exe
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\obj\Debug\BookDeposit2.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\bin\Debug\BookDeposit2.exe.config
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\bin\Debug\BookDeposit2.exe
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookDeposit2\bin\Debug\BookDeposit2.pdb

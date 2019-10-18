@@ -1,0 +1,13 @@
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.csprojAssemblyReference.cache
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.Properties.Resources.resources
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.csproj.GenerateResource.cache
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookFrontEnd.exe.config
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookFrontEnd.exe
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookFrontEnd.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookDeposit2.exe
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookDeposit2.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\bin\Debug\BookDeposit2.exe.config
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.csproj.CopyComplete
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.exe
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.pdb
+C:\Users\Wyrdling\source\repos\BookDeposit-master\BookFrontEnd\obj\Debug\BookFrontEnd.Book.resources
